@@ -1,0 +1,9 @@
+ID,Name,Department,Location,Score,Status,Date
+1,Arun Kumar,Engineering,Bangalore,87,Active,2026-01-10
+2,Meera Singh,Finance,Delhi,92,Active,2026-01-12
+3,Raj Patel,Marketing,Mumbai,74,Inactive,2026-01-15
+4,Sneha Iyer,Engineering,Chennai,81,Active,2026-01-18
+5,David Joseph,HR,Bangalore,69,Active,2026-01-21
+6,Anita Rao,Finance,Hyderabad,95,Active,2026-01-25
+7,Krishnan M,Support,Pune,78,Inactive,2026-01-30
+8,Neha Verma,Engineering,Bangalore,88,Active,2026-02-01
